@@ -1,0 +1,10 @@
+D:\University\Code\CS\Week2\BT4\bin\Debug\BT4.exe.config
+D:\University\Code\CS\Week2\BT4\bin\Debug\BT4.exe
+D:\University\Code\CS\Week2\BT4\bin\Debug\BT4.pdb
+D:\University\Code\CS\Week2\BT4\obj\Debug\BT4.csproj.AssemblyReference.cache
+D:\University\Code\CS\Week2\BT4\obj\Debug\BT4.Form1.resources
+D:\University\Code\CS\Week2\BT4\obj\Debug\BT4.Properties.Resources.resources
+D:\University\Code\CS\Week2\BT4\obj\Debug\BT4.csproj.GenerateResource.cache
+D:\University\Code\CS\Week2\BT4\obj\Debug\BT4.csproj.CoreCompileInputs.cache
+D:\University\Code\CS\Week2\BT4\obj\Debug\BT4.exe
+D:\University\Code\CS\Week2\BT4\obj\Debug\BT4.pdb
