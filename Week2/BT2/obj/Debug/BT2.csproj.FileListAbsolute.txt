@@ -1,0 +1,10 @@
+D:\University\Code\CS\Week2\BT2\bin\Debug\BT2.exe.config
+D:\University\Code\CS\Week2\BT2\bin\Debug\BT2.exe
+D:\University\Code\CS\Week2\BT2\bin\Debug\BT2.pdb
+D:\University\Code\CS\Week2\BT2\obj\Debug\BT2.csproj.AssemblyReference.cache
+D:\University\Code\CS\Week2\BT2\obj\Debug\BT2.Form1.resources
+D:\University\Code\CS\Week2\BT2\obj\Debug\BT2.Properties.Resources.resources
+D:\University\Code\CS\Week2\BT2\obj\Debug\BT2.csproj.GenerateResource.cache
+D:\University\Code\CS\Week2\BT2\obj\Debug\BT2.csproj.CoreCompileInputs.cache
+D:\University\Code\CS\Week2\BT2\obj\Debug\BT2.exe
+D:\University\Code\CS\Week2\BT2\obj\Debug\BT2.pdb
