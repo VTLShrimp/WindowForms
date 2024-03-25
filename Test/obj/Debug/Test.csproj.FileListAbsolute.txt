@@ -1,0 +1,13 @@
+D:\University\Code\CS\Test\bin\Debug\Test.exe.config
+D:\University\Code\CS\Test\bin\Debug\Test.exe
+D:\University\Code\CS\Test\bin\Debug\Test.pdb
+D:\University\Code\CS\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\University\Code\CS\Test\obj\Debug\Test.Properties.Resources.resources
+D:\University\Code\CS\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\University\Code\CS\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\University\Code\CS\Test\obj\Debug\Test.exe
+D:\University\Code\CS\Test\obj\Debug\Test.pdb
+D:\University\Code\CS\Test\obj\Debug\Test.Login.resources
+D:\University\Code\CS\Test\obj\Debug\Test.AdminForm.resources
+D:\University\Code\CS\Test\obj\Debug\Test.ResetForm.resources
+D:\University\Code\CS\Test\obj\Debug\Test.UserForm.resources
