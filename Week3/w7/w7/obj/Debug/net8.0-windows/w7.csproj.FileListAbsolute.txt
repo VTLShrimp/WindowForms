@@ -1,0 +1,16 @@
+C:\Học Tập\Lập Trình Windows\Tuần 3\w7\w7\bin\Debug\net8.0-windows\w7.exe
+C:\Học Tập\Lập Trình Windows\Tuần 3\w7\w7\bin\Debug\net8.0-windows\w7.deps.json
+C:\Học Tập\Lập Trình Windows\Tuần 3\w7\w7\bin\Debug\net8.0-windows\w7.runtimeconfig.json
+C:\Học Tập\Lập Trình Windows\Tuần 3\w7\w7\bin\Debug\net8.0-windows\w7.dll
+C:\Học Tập\Lập Trình Windows\Tuần 3\w7\w7\bin\Debug\net8.0-windows\w7.pdb
+C:\Học Tập\Lập Trình Windows\Tuần 3\w7\w7\obj\Debug\net8.0-windows\w7.Form1.resources
+C:\Học Tập\Lập Trình Windows\Tuần 3\w7\w7\obj\Debug\net8.0-windows\w7.csproj.GenerateResource.cache
+C:\Học Tập\Lập Trình Windows\Tuần 3\w7\w7\obj\Debug\net8.0-windows\w7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Học Tập\Lập Trình Windows\Tuần 3\w7\w7\obj\Debug\net8.0-windows\w7.AssemblyInfoInputs.cache
+C:\Học Tập\Lập Trình Windows\Tuần 3\w7\w7\obj\Debug\net8.0-windows\w7.AssemblyInfo.cs
+C:\Học Tập\Lập Trình Windows\Tuần 3\w7\w7\obj\Debug\net8.0-windows\w7.csproj.CoreCompileInputs.cache
+C:\Học Tập\Lập Trình Windows\Tuần 3\w7\w7\obj\Debug\net8.0-windows\w7.dll
+C:\Học Tập\Lập Trình Windows\Tuần 3\w7\w7\obj\Debug\net8.0-windows\refint\w7.dll
+C:\Học Tập\Lập Trình Windows\Tuần 3\w7\w7\obj\Debug\net8.0-windows\w7.pdb
+C:\Học Tập\Lập Trình Windows\Tuần 3\w7\w7\obj\Debug\net8.0-windows\w7.genruntimeconfig.cache
+C:\Học Tập\Lập Trình Windows\Tuần 3\w7\w7\obj\Debug\net8.0-windows\ref\w7.dll
