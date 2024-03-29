@@ -11,3 +11,4 @@ D:\University\Code\CS\Test\obj\Debug\LoginForm.csproj.GenerateResource.cache
 D:\University\Code\CS\Test\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
 D:\University\Code\CS\Test\obj\Debug\Test.exe
 D:\University\Code\CS\Test\obj\Debug\Test.pdb
+D:\University\Code\CS\Test\obj\Debug\Test.RegisterFrom.resources

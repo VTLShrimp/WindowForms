@@ -52,6 +52,12 @@
     <Compile Include="AdminForm.Designer.cs">
       <DependentUpon>AdminForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="RegisterFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterFrom.Designer.cs">
+      <DependentUpon>RegisterFrom.cs</DependentUpon>
+    </Compile>
     <Compile Include="ResetForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -87,6 +93,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="RegisterFrom.resx">
+      <DependentUpon>RegisterFrom.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ResetForm.resx">
       <DependentUpon>ResetForm.cs</DependentUpon>
     </EmbeddedResource>

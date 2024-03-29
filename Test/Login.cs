@@ -9,7 +9,8 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using System.IO;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 namespace Test
 {
 
@@ -34,47 +35,66 @@ namespace Test
             {
                 try
                 {
-                    SqlConnection con = new SqlConnection(@"Data Source=LAMLMAO;Initial Catalog=User_Management;Integrated Security=True;");
-                    con.Open();
-                    string UserName = UserText.Text;
-                    string Password = PassWordTextBox.Text;
-                    string sql = "select * from User_Info where UserName = '" + UserName + "' and UserPassword = '" + Password + "'";
-                    SqlCommand cmd = new SqlCommand(sql, con);
-                    SqlDataReader reader = cmd.ExecuteReader();
-                    if (reader.Read() == true)
+                    string Connetdata = @"Data Source=LAMLMAO;Initial Catalog=User_Management;Integrated Security=True;";
+                    string username = UserText.Text;
+                    string password = PassWordTextBox.Text;
+                    DateTime now = DateTime.Now;
+                    string checkAccout = "select * from User_Info where UserName = '" + username + "' and UserPassword = '" + password + "'";
+                    SqlDataAdapter adapter = new SqlDataAdapter(checkAccout,Connetdata);
+                    DataSet data = new DataSet();
+                    adapter.Fill(data,"User_Info");
+                    DataTable dt = data.Tables["User_Info"];
+                    if(dt.Rows.Count > 0)
                     {
-                        reader.Close();
-                        string UserType = "select * from User_Info where UserName = '" + UserName + "' and UserType = 'admin'";
-                        SqlCommand cmd2 = new SqlCommand(UserType, con);
-                        SqlDataReader CheckAdmin = cmd2.ExecuteReader();
-                        if (CheckAdmin.Read() == true)
+                        string checktype = "select * from User_Info where UserName = '" + username + "' and UserType = 'admin'";
+                        SqlConnection sqlConnection = new SqlConnection(Connetdata);
+                        SqlDataAdapter checkTypeAdapter = new SqlDataAdapter(checktype,Connetdata);
+                        DataSet checkTypeData = new DataSet();
+                        checkTypeAdapter.Fill(checkTypeData, "User_Info");
+                        DataTable checktypetable = checkTypeData.Tables["User_Info"];
+                       /* TextWriter textWriter1 = new StreamWriter("D:\\University\\Code\\CS\\Data.txt");
+                        textWriter1.WriteLine("Tài khoản đã đăng nhập : " + username);
+                        textWriter1.WriteLine("Vào lúc : " + now);
+                        textWriter1.WriteLine("-----------------------------------");
+                        textWriter1.Close();*/
+                        if (checktypetable.Rows.Count > 0 )
                         {
-                            MessageBox.Show("Dang nhap admin thanh cong", "Thong bao",MessageBoxButtons.OK,MessageBoxIcon.Warning);
-                            CheckAdmin.Close();
+                            MessageBox.Show("Dang nhap admin thanh cong","Thong bao",MessageBoxButtons.OK,MessageBoxIcon.Information);
+                            string uprecord = "insert into User_Login_Record values ('"+username+"','admin','"+now+"') ";
+                            sqlConnection.Open();
+                            SqlCommand insertrecord = new SqlCommand(uprecord,sqlConnection);
+                            insertrecord.ExecuteNonQuery();
+                            sqlConnection.Close();
                             AdminForm adminForm = new AdminForm();
                             adminForm.Show();
                             this.Hide();
+
                         }
                         else
                         {
-                            MessageBox.Show("Dang nhap user thanh cong", "Thong bao", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                            CheckAdmin.Close();
+                            MessageBox.Show("dang nhap user thanh cong","Thong bao",MessageBoxButtons.OK,MessageBoxIcon.Information);
+                            string uprecord = "insert into User_Login_Record values ('" + username + "','user','" + now + "') ";
+                            sqlConnection.Open();
+                            SqlCommand insertrecord = new SqlCommand(uprecord, sqlConnection);
+                            insertrecord.ExecuteNonQuery();
+                            sqlConnection.Close();
                             UserForm userForm = new UserForm();
                             userForm.Show();
-                            this.Hide();
+                            Hide();
                         }
                     }
                     else
                     {
-                        MessageBox.Show("Tai khoan hoac mat khau khong dung", "Thong bao", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        MessageBox.Show("Sai tai khoan hoac mat khau", "Thong bao", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     }
                 }
                 catch
                 {
-                    MessageBox.Show("Co loi xay ra", "Thong bao", MessageBoxButtons.OK, MessageBoxIcon.Warning );
+                    MessageBox.Show("Co loi xay ra", "Thong bao", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 }
-            }          
+            }
         }
+      
         private void PassWordTextBox_Enter(object sender, EventArgs e)
         {
             if (PassWordTextBox.Text == "Enter your password")
@@ -121,14 +141,18 @@ namespace Test
      
         private void CancelButton_Click(object sender, EventArgs e)
         {
-            this.Close();
+            DialogResult a =MessageBox.Show("Ban co chac muon thoat", "Thong bao", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if(a == DialogResult.Yes)
+            {
+                Close();
+            }
         }
 
         private void ForgetPasswordLink_Click(object sender, EventArgs e)
         {
             ResetForm resetForm = new ResetForm();         
             resetForm.Show();  
-            this.Hide();
+            Hide();
            
         }
 
@@ -147,20 +171,16 @@ namespace Test
             }
         }
 
-        private void PassWordTextBox_TextChanged(object sender, EventArgs e)
-        {
-        
-        }
-
-        private void UserText_TextChanged(object sender, EventArgs e)
-        {
-         
-        }
-
         private void ForgetPasswordLink_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             ResetForm reset = new ResetForm();
             reset.Show();   
+        }
+
+        private void RegisterButton_Click(object sender, EventArgs e)
+        {
+            RegisterFrom registerFrom = new RegisterFrom();
+            registerFrom.Show();
         }
     }
 }
