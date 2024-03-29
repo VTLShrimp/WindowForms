@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{9AD8F931-3628-4D7E-A768-64A0DA1298E2}|uocchungboichung\\uocchungboichung.csproj|solutionrelative:uocchungboichung\\uocch_boich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AD8F931-3628-4D7E-A768-64A0DA1298E2}|uocchungboichung\\uocchungboichung.csproj|d:\\code\\windowforms\\week1\\uocchungboichung\\uocchungboichung\\uocch_boich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9AD8F931-3628-4D7E-A768-64A0DA1298E2}|uocchungboichung\\uocchungboichung.csproj|D:\\code\\WindowForms\\Week1\\uocchungboichung\\uocchungboichung\\uocch_boich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AD8F931-3628-4D7E-A768-64A0DA1298E2}|uocchungboichung\\uocchungboichung.csproj|solutionrelative:uocchungboichung\\uocch_boich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,8 +42,7 @@
               "RelativeToolTip": "uocchungboichung\\uocch_boich.cs",
               "ViewState": "AQIAACIAAAAAAAAAAAAIwDUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T16:53:26.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-29T16:53:26.29Z"
             }
           ]
         }
