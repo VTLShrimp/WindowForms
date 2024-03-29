@@ -1,0 +1,10 @@
+D:\code\WIN\TinhTongDonGian\TinhTongDonGian\obj\Debug\TinhTongDonGian.csproj.AssemblyReference.cache
+D:\code\WIN\TinhTongDonGian\TinhTongDonGian\obj\Debug\TinhTongDonGian.frmTinhTong.resources
+D:\code\WIN\TinhTongDonGian\TinhTongDonGian\obj\Debug\TinhTongDonGian.Properties.Resources.resources
+D:\code\WIN\TinhTongDonGian\TinhTongDonGian\obj\Debug\TinhTongDonGian.csproj.GenerateResource.cache
+D:\code\WIN\TinhTongDonGian\TinhTongDonGian\obj\Debug\TinhTongDonGian.csproj.CoreCompileInputs.cache
+D:\code\WIN\TinhTongDonGian\TinhTongDonGian\bin\Debug\TinhTongDonGian.exe.config
+D:\code\WIN\TinhTongDonGian\TinhTongDonGian\bin\Debug\TinhTongDonGian.exe
+D:\code\WIN\TinhTongDonGian\TinhTongDonGian\bin\Debug\TinhTongDonGian.pdb
+D:\code\WIN\TinhTongDonGian\TinhTongDonGian\obj\Debug\TinhTongDonGian.exe
+D:\code\WIN\TinhTongDonGian\TinhTongDonGian\obj\Debug\TinhTongDonGian.pdb

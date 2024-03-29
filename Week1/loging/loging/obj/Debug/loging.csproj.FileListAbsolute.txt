@@ -1,0 +1,11 @@
+D:\code\WIN\loging\loging\bin\Debug\loging.exe.config
+D:\code\WIN\loging\loging\bin\Debug\loging.exe
+D:\code\WIN\loging\loging\bin\Debug\loging.pdb
+D:\code\WIN\loging\loging\obj\Debug\loging.csproj.AssemblyReference.cache
+D:\code\WIN\loging\loging\obj\Debug\loging.Properties.Resources.resources
+D:\code\WIN\loging\loging\obj\Debug\loging.csproj.GenerateResource.cache
+D:\code\WIN\loging\loging\obj\Debug\loging.csproj.CoreCompileInputs.cache
+D:\code\WIN\loging\loging\obj\Debug\loging.exe
+D:\code\WIN\loging\loging\obj\Debug\loging.pdb
+D:\code\WIN\loging\loging\obj\Debug\loging.trangchinhlogin.resources
+D:\code\WIN\loging\loging\obj\Debug\loging.Tinhtong2so.resources

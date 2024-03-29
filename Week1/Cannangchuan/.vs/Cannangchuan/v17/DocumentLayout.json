@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\WindowForms\\Week1\\Cannangchuan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF0AB30-F36C-444D-901E-8E56C036E373}|Cannangchuan\\Cannangchuan.csproj|D:\\code\\WindowForms\\Week1\\Cannangchuan\\cannangchuan\\cannang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EF0AB30-F36C-444D-901E-8E56C036E373}|Cannangchuan\\Cannangchuan.csproj|solutionrelative:cannangchuan\\cannang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF0AB30-F36C-444D-901E-8E56C036E373}|Cannangchuan\\Cannangchuan.csproj|d:\\code\\windowforms\\week1\\cannangchuan\\cannangchuan\\cannang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF0AB30-F36C-444D-901E-8E56C036E373}|Cannangchuan\\Cannangchuan.csproj|solutionrelative:cannangchuan\\cannang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF0AB30-F36C-444D-901E-8E56C036E373}|Cannangchuan\\Cannangchuan.csproj|D:\\code\\WindowForms\\Week1\\Cannangchuan\\cannangchuan\\cannang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF0AB30-F36C-444D-901E-8E56C036E373}|Cannangchuan\\Cannangchuan.csproj|solutionrelative:cannangchuan\\cannang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cannang.cs [Design]",
+              "DocumentMoniker": "D:\\code\\WindowForms\\Week1\\Cannangchuan\\Cannangchuan\\Cannang.cs",
+              "RelativeDocumentMoniker": "Cannangchuan\\Cannang.cs",
+              "ToolTip": "D:\\code\\WindowForms\\Week1\\Cannangchuan\\Cannangchuan\\Cannang.cs [Design]",
+              "RelativeToolTip": "Cannangchuan\\Cannang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:44:06.278Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cannang.Designer.cs",
+              "DocumentMoniker": "D:\\code\\WindowForms\\Week1\\Cannangchuan\\Cannangchuan\\Cannang.Designer.cs",
+              "RelativeDocumentMoniker": "Cannangchuan\\Cannang.Designer.cs",
+              "ToolTip": "D:\\code\\WindowForms\\Week1\\Cannangchuan\\Cannangchuan\\Cannang.Designer.cs",
+              "RelativeToolTip": "Cannangchuan\\Cannang.Designer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswCoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:44:46.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cannang.cs",
+              "DocumentMoniker": "D:\\code\\WindowForms\\Week1\\Cannangchuan\\Cannangchuan\\Cannang.cs",
+              "RelativeDocumentMoniker": "Cannangchuan\\Cannang.cs",
+              "ToolTip": "D:\\code\\WindowForms\\Week1\\Cannangchuan\\Cannangchuan\\Cannang.cs",
+              "RelativeToolTip": "Cannangchuan\\Cannang.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAApwHYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:45:53.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

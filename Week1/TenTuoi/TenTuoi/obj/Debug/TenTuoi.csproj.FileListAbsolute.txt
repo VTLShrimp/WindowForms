@@ -1,0 +1,10 @@
+D:\code\WIN\TenTuoi\TenTuoi\bin\Debug\TenTuoi.exe.config
+D:\code\WIN\TenTuoi\TenTuoi\bin\Debug\TenTuoi.exe
+D:\code\WIN\TenTuoi\TenTuoi\bin\Debug\TenTuoi.pdb
+D:\code\WIN\TenTuoi\TenTuoi\obj\Debug\TenTuoi.csproj.AssemblyReference.cache
+D:\code\WIN\TenTuoi\TenTuoi\obj\Debug\TenTuoi.FrmTenTuoi.resources
+D:\code\WIN\TenTuoi\TenTuoi\obj\Debug\TenTuoi.Properties.Resources.resources
+D:\code\WIN\TenTuoi\TenTuoi\obj\Debug\TenTuoi.csproj.GenerateResource.cache
+D:\code\WIN\TenTuoi\TenTuoi\obj\Debug\TenTuoi.csproj.CoreCompileInputs.cache
+D:\code\WIN\TenTuoi\TenTuoi\obj\Debug\TenTuoi.exe
+D:\code\WIN\TenTuoi\TenTuoi\obj\Debug\TenTuoi.pdb

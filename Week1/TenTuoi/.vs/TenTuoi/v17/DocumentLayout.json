@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\WindowForms\\Week1\\TenTuoi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69D75A5F-B4A3-49E9-8B90-70957189AA56}|TenTuoi\\TenTuoi.csproj|D:\\code\\WindowForms\\Week1\\TenTuoi\\tentuoi\\frmtentuoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D75A5F-B4A3-49E9-8B90-70957189AA56}|TenTuoi\\TenTuoi.csproj|solutionrelative:tentuoi\\frmtentuoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D75A5F-B4A3-49E9-8B90-70957189AA56}|TenTuoi\\TenTuoi.csproj|d:\\code\\windowforms\\week1\\tentuoi\\tentuoi\\frmtentuoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69D75A5F-B4A3-49E9-8B90-70957189AA56}|TenTuoi\\TenTuoi.csproj|solutionrelative:tentuoi\\frmtentuoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D75A5F-B4A3-49E9-8B90-70957189AA56}|TenTuoi\\TenTuoi.csproj|D:\\code\\WindowForms\\Week1\\TenTuoi\\tentuoi\\frmtentuoi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D75A5F-B4A3-49E9-8B90-70957189AA56}|TenTuoi\\TenTuoi.csproj|solutionrelative:tentuoi\\frmtentuoi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmTenTuoi.cs [Design]",
+              "DocumentMoniker": "D:\\code\\WindowForms\\Week1\\TenTuoi\\TenTuoi\\FrmTenTuoi.cs",
+              "RelativeDocumentMoniker": "TenTuoi\\FrmTenTuoi.cs",
+              "ToolTip": "D:\\code\\WindowForms\\Week1\\TenTuoi\\TenTuoi\\FrmTenTuoi.cs [Design]",
+              "RelativeToolTip": "TenTuoi\\FrmTenTuoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:18:09.474Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmTenTuoi.Designer.cs",
+              "DocumentMoniker": "D:\\code\\WindowForms\\Week1\\TenTuoi\\TenTuoi\\FrmTenTuoi.Designer.cs",
+              "RelativeDocumentMoniker": "TenTuoi\\FrmTenTuoi.Designer.cs",
+              "ToolTip": "D:\\code\\WindowForms\\Week1\\TenTuoi\\TenTuoi\\FrmTenTuoi.Designer.cs",
+              "RelativeToolTip": "TenTuoi\\FrmTenTuoi.Designer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwI4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:34:24.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmTenTuoi.cs",
+              "DocumentMoniker": "D:\\code\\WindowForms\\Week1\\TenTuoi\\TenTuoi\\FrmTenTuoi.cs",
+              "RelativeDocumentMoniker": "TenTuoi\\FrmTenTuoi.cs",
+              "ToolTip": "D:\\code\\WindowForms\\Week1\\TenTuoi\\TenTuoi\\FrmTenTuoi.cs",
+              "RelativeToolTip": "TenTuoi\\FrmTenTuoi.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAApwDUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:31:54.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
