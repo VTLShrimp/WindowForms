@@ -1,0 +1,10 @@
+D:\code\WindowForms\Week1\uocchungboichung\uocchungboichung\bin\Debug\uocchungboichung.exe.config
+D:\code\WindowForms\Week1\uocchungboichung\uocchungboichung\bin\Debug\uocchungboichung.exe
+D:\code\WindowForms\Week1\uocchungboichung\uocchungboichung\bin\Debug\uocchungboichung.pdb
+D:\code\WindowForms\Week1\uocchungboichung\uocchungboichung\obj\Debug\uocchungboichung.csproj.AssemblyReference.cache
+D:\code\WindowForms\Week1\uocchungboichung\uocchungboichung\obj\Debug\uocchungboichung.Properties.Resources.resources
+D:\code\WindowForms\Week1\uocchungboichung\uocchungboichung\obj\Debug\uocchungboichung.frmuocch_boich.resources
+D:\code\WindowForms\Week1\uocchungboichung\uocchungboichung\obj\Debug\uocchungboichung.csproj.GenerateResource.cache
+D:\code\WindowForms\Week1\uocchungboichung\uocchungboichung\obj\Debug\uocchungboichung.csproj.CoreCompileInputs.cache
+D:\code\WindowForms\Week1\uocchungboichung\uocchungboichung\obj\Debug\uocchungboichung.exe
+D:\code\WindowForms\Week1\uocchungboichung\uocchungboichung\obj\Debug\uocchungboichung.pdb

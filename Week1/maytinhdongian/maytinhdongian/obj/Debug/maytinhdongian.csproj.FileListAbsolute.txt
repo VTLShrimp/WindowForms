@@ -1,0 +1,10 @@
+D:\code\WindowForms\Week1\maytinhdongian\maytinhdongian\bin\Debug\maytinhdongian.exe.config
+D:\code\WindowForms\Week1\maytinhdongian\maytinhdongian\bin\Debug\maytinhdongian.exe
+D:\code\WindowForms\Week1\maytinhdongian\maytinhdongian\bin\Debug\maytinhdongian.pdb
+D:\code\WindowForms\Week1\maytinhdongian\maytinhdongian\obj\Debug\maytinhdongian.csproj.AssemblyReference.cache
+D:\code\WindowForms\Week1\maytinhdongian\maytinhdongian\obj\Debug\maytinhdongian.frmmaytinh.resources
+D:\code\WindowForms\Week1\maytinhdongian\maytinhdongian\obj\Debug\maytinhdongian.Properties.Resources.resources
+D:\code\WindowForms\Week1\maytinhdongian\maytinhdongian\obj\Debug\maytinhdongian.csproj.GenerateResource.cache
+D:\code\WindowForms\Week1\maytinhdongian\maytinhdongian\obj\Debug\maytinhdongian.csproj.CoreCompileInputs.cache
+D:\code\WindowForms\Week1\maytinhdongian\maytinhdongian\obj\Debug\maytinhdongian.exe
+D:\code\WindowForms\Week1\maytinhdongian\maytinhdongian\obj\Debug\maytinhdongian.pdb

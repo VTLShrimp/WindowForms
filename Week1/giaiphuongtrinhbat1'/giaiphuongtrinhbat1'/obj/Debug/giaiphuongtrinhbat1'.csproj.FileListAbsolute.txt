@@ -1,0 +1,10 @@
+D:\code\WindowForms\Week1\giaiphuongtrinhbat1'\giaiphuongtrinhbat1'\bin\Debug\giaiphuongtrinhbat1'.exe.config
+D:\code\WindowForms\Week1\giaiphuongtrinhbat1'\giaiphuongtrinhbat1'\bin\Debug\giaiphuongtrinhbat1'.exe
+D:\code\WindowForms\Week1\giaiphuongtrinhbat1'\giaiphuongtrinhbat1'\bin\Debug\giaiphuongtrinhbat1'.pdb
+D:\code\WindowForms\Week1\giaiphuongtrinhbat1'\giaiphuongtrinhbat1'\obj\Debug\giaiphuongtrinhbat1'.csproj.AssemblyReference.cache
+D:\code\WindowForms\Week1\giaiphuongtrinhbat1'\giaiphuongtrinhbat1'\obj\Debug\giaiphuongtrinhbat1_.frmgaiphuongtrinh1.resources
+D:\code\WindowForms\Week1\giaiphuongtrinhbat1'\giaiphuongtrinhbat1'\obj\Debug\giaiphuongtrinhbat1_.Properties.Resources.resources
+D:\code\WindowForms\Week1\giaiphuongtrinhbat1'\giaiphuongtrinhbat1'\obj\Debug\giaiphuongtrinhbat1'.csproj.GenerateResource.cache
+D:\code\WindowForms\Week1\giaiphuongtrinhbat1'\giaiphuongtrinhbat1'\obj\Debug\giaiphuongtrinhbat1'.csproj.CoreCompileInputs.cache
+D:\code\WindowForms\Week1\giaiphuongtrinhbat1'\giaiphuongtrinhbat1'\obj\Debug\giaiphuongtrinhbat1'.exe
+D:\code\WindowForms\Week1\giaiphuongtrinhbat1'\giaiphuongtrinhbat1'\obj\Debug\giaiphuongtrinhbat1'.pdb
