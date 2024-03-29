@@ -41,6 +41,7 @@
             this.PassWordTextBox = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.ForgetPasswordLink = new System.Windows.Forms.LinkLabel();
+            this.RegisterButton = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -89,7 +90,7 @@
             // 
             this.LoginButton.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.LoginButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.LoginButton.Location = new System.Drawing.Point(130, 366);
+            this.LoginButton.Location = new System.Drawing.Point(50, 366);
             this.LoginButton.Name = "LoginButton";
             this.LoginButton.Size = new System.Drawing.Size(133, 41);
             this.LoginButton.TabIndex = 4;
@@ -100,7 +101,7 @@
             // CancelButton
             // 
             this.CancelButton.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.CancelButton.Location = new System.Drawing.Point(340, 366);
+            this.CancelButton.Location = new System.Drawing.Point(407, 366);
             this.CancelButton.Name = "CancelButton";
             this.CancelButton.Size = new System.Drawing.Size(133, 41);
             this.CancelButton.TabIndex = 5;
@@ -136,7 +137,7 @@
             this.UserText.Size = new System.Drawing.Size(342, 32);
             this.UserText.TabIndex = 1;
             this.UserText.Text = "Enter your name";
-            this.UserText.TextChanged += new System.EventHandler(this.UserText_TextChanged);
+
             this.UserText.Enter += new System.EventHandler(this.UserText_Enter);
             this.UserText.Leave += new System.EventHandler(this.UserText_Leave);
             // 
@@ -149,7 +150,7 @@
             this.PassWordTextBox.Size = new System.Drawing.Size(342, 32);
             this.PassWordTextBox.TabIndex = 2;
             this.PassWordTextBox.Text = "Enter your password";
-            this.PassWordTextBox.TextChanged += new System.EventHandler(this.PassWordTextBox_TextChanged);
+
             this.PassWordTextBox.Enter += new System.EventHandler(this.PassWordTextBox_Enter);
             this.PassWordTextBox.Leave += new System.EventHandler(this.PassWordTextBox_Leave);
             // 
@@ -167,13 +168,25 @@
             // 
             this.ForgetPasswordLink.AutoSize = true;
             this.ForgetPasswordLink.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ForgetPasswordLink.Location = new System.Drawing.Point(127, 431);
+            this.ForgetPasswordLink.Location = new System.Drawing.Point(214, 445);
             this.ForgetPasswordLink.Name = "ForgetPasswordLink";
             this.ForgetPasswordLink.Size = new System.Drawing.Size(136, 20);
             this.ForgetPasswordLink.TabIndex = 6;
             this.ForgetPasswordLink.TabStop = true;
             this.ForgetPasswordLink.Text = "Forgot Password";
             this.ForgetPasswordLink.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.ForgetPasswordLink_LinkClicked);
+            // 
+            // RegisterButton
+            // 
+            this.RegisterButton.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.RegisterButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.RegisterButton.Location = new System.Drawing.Point(230, 366);
+            this.RegisterButton.Name = "RegisterButton";
+            this.RegisterButton.Size = new System.Drawing.Size(133, 41);
+            this.RegisterButton.TabIndex = 15;
+            this.RegisterButton.Text = "Register";
+            this.RegisterButton.UseVisualStyleBackColor = false;
+            this.RegisterButton.Click += new System.EventHandler(this.RegisterButton_Click);
             // 
             // Login
             // 
@@ -182,6 +195,7 @@
             this.AutoValidate = System.Windows.Forms.AutoValidate.EnableAllowFocusChange;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(588, 512);
+            this.Controls.Add(this.RegisterButton);
             this.Controls.Add(this.ForgetPasswordLink);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.PassWordTextBox);
@@ -220,6 +234,7 @@
         private System.Windows.Forms.TextBox PassWordTextBox;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.LinkLabel ForgetPasswordLink;
+        private System.Windows.Forms.Button RegisterButton;
     }
 }
 
