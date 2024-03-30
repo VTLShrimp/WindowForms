@@ -16,5 +16,10 @@ namespace header
         {
             InitializeComponent();
         }
+
+        private void tsmiexit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

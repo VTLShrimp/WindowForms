@@ -1,0 +1,10 @@
+D:\code\WindowForms\Week1\header\header\bin\Debug\header.exe.config
+D:\code\WindowForms\Week1\header\header\bin\Debug\header.exe
+D:\code\WindowForms\Week1\header\header\bin\Debug\header.pdb
+D:\code\WindowForms\Week1\header\header\obj\Debug\header.csproj.AssemblyReference.cache
+D:\code\WindowForms\Week1\header\header\obj\Debug\header.frmheader.resources
+D:\code\WindowForms\Week1\header\header\obj\Debug\header.Properties.Resources.resources
+D:\code\WindowForms\Week1\header\header\obj\Debug\header.csproj.GenerateResource.cache
+D:\code\WindowForms\Week1\header\header\obj\Debug\header.csproj.CoreCompileInputs.cache
+D:\code\WindowForms\Week1\header\header\obj\Debug\header.exe
+D:\code\WindowForms\Week1\header\header\obj\Debug\header.pdb
