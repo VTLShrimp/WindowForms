@@ -1,0 +1,10 @@
+D:\code\WindowForms\Week1\Bt6_doitien\Bt6_doitien\bin\Debug\Bt6_doitien.exe.config
+D:\code\WindowForms\Week1\Bt6_doitien\Bt6_doitien\bin\Debug\Bt6_doitien.exe
+D:\code\WindowForms\Week1\Bt6_doitien\Bt6_doitien\bin\Debug\Bt6_doitien.pdb
+D:\code\WindowForms\Week1\Bt6_doitien\Bt6_doitien\obj\Debug\Bt6_doitien.csproj.AssemblyReference.cache
+D:\code\WindowForms\Week1\Bt6_doitien\Bt6_doitien\obj\Debug\Bt6_doitien.frmdoitien.resources
+D:\code\WindowForms\Week1\Bt6_doitien\Bt6_doitien\obj\Debug\Bt6_doitien.Properties.Resources.resources
+D:\code\WindowForms\Week1\Bt6_doitien\Bt6_doitien\obj\Debug\Bt6_doitien.csproj.GenerateResource.cache
+D:\code\WindowForms\Week1\Bt6_doitien\Bt6_doitien\obj\Debug\Bt6_doitien.csproj.CoreCompileInputs.cache
+D:\code\WindowForms\Week1\Bt6_doitien\Bt6_doitien\obj\Debug\Bt6_doitien.exe
+D:\code\WindowForms\Week1\Bt6_doitien\Bt6_doitien\obj\Debug\Bt6_doitien.pdb

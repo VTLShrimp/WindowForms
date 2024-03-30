@@ -1,0 +1,10 @@
+D:\code\WindowForms\Week1\bt7_xemnam\bt7_xemnam\bin\Debug\bt7_xemnam.exe.config
+D:\code\WindowForms\Week1\bt7_xemnam\bt7_xemnam\bin\Debug\bt7_xemnam.exe
+D:\code\WindowForms\Week1\bt7_xemnam\bt7_xemnam\bin\Debug\bt7_xemnam.pdb
+D:\code\WindowForms\Week1\bt7_xemnam\bt7_xemnam\obj\Debug\bt7_xemnam.csproj.AssemblyReference.cache
+D:\code\WindowForms\Week1\bt7_xemnam\bt7_xemnam\obj\Debug\bt7_xemnam.frmtinhnam.resources
+D:\code\WindowForms\Week1\bt7_xemnam\bt7_xemnam\obj\Debug\bt7_xemnam.Properties.Resources.resources
+D:\code\WindowForms\Week1\bt7_xemnam\bt7_xemnam\obj\Debug\bt7_xemnam.csproj.GenerateResource.cache
+D:\code\WindowForms\Week1\bt7_xemnam\bt7_xemnam\obj\Debug\bt7_xemnam.csproj.CoreCompileInputs.cache
+D:\code\WindowForms\Week1\bt7_xemnam\bt7_xemnam\obj\Debug\bt7_xemnam.exe
+D:\code\WindowForms\Week1\bt7_xemnam\bt7_xemnam\obj\Debug\bt7_xemnam.pdb
