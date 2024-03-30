@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\code\\WindowForms\\Week1\\bt7_xemnam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4ED18CEA-61AC-4896-9EDE-92DC5A8B82B6}|bt7_xemnam\\bt7_xemnam.csproj|D:\\code\\WindowForms\\Week1\\bt7_xemnam\\bt7_xemnam\\tinhnam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4ED18CEA-61AC-4896-9EDE-92DC5A8B82B6}|bt7_xemnam\\bt7_xemnam.csproj|d:\\code\\windowforms\\week1\\bt7_xemnam\\bt7_xemnam\\tinhnam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4ED18CEA-61AC-4896-9EDE-92DC5A8B82B6}|bt7_xemnam\\bt7_xemnam.csproj|solutionrelative:bt7_xemnam\\tinhnam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -45,8 +45,7 @@
               "RelativeToolTip": "bt7_xemnam\\tinhnam.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T02:18:20.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-30T02:18:20.512Z"
             },
             {
               "$type": "Document",
@@ -58,8 +57,7 @@
               "RelativeToolTip": "..\\Bt6_doitien\\Bt6_doitien\\Doitien.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAD8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T02:25:26.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-30T02:25:26.791Z"
             }
           ]
         }

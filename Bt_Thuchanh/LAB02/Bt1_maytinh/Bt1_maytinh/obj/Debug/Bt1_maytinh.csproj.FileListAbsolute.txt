@@ -1,0 +1,10 @@
+D:\code\WindowForms\Bt_Thuchanh\LAB02\Bt1_maytinh\Bt1_maytinh\bin\Debug\Bt1_maytinh.exe.config
+D:\code\WindowForms\Bt_Thuchanh\LAB02\Bt1_maytinh\Bt1_maytinh\bin\Debug\Bt1_maytinh.exe
+D:\code\WindowForms\Bt_Thuchanh\LAB02\Bt1_maytinh\Bt1_maytinh\bin\Debug\Bt1_maytinh.pdb
+D:\code\WindowForms\Bt_Thuchanh\LAB02\Bt1_maytinh\Bt1_maytinh\obj\Debug\Bt1_maytinh.csproj.AssemblyReference.cache
+D:\code\WindowForms\Bt_Thuchanh\LAB02\Bt1_maytinh\Bt1_maytinh\obj\Debug\Bt1_maytinh.Form1.resources
+D:\code\WindowForms\Bt_Thuchanh\LAB02\Bt1_maytinh\Bt1_maytinh\obj\Debug\Bt1_maytinh.Properties.Resources.resources
+D:\code\WindowForms\Bt_Thuchanh\LAB02\Bt1_maytinh\Bt1_maytinh\obj\Debug\Bt1_maytinh.csproj.GenerateResource.cache
+D:\code\WindowForms\Bt_Thuchanh\LAB02\Bt1_maytinh\Bt1_maytinh\obj\Debug\Bt1_maytinh.csproj.CoreCompileInputs.cache
+D:\code\WindowForms\Bt_Thuchanh\LAB02\Bt1_maytinh\Bt1_maytinh\obj\Debug\Bt1_maytinh.exe
+D:\code\WindowForms\Bt_Thuchanh\LAB02\Bt1_maytinh\Bt1_maytinh\obj\Debug\Bt1_maytinh.pdb
