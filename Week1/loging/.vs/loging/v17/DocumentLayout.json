@@ -1,17 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\code\\WIN\\loging\\",
+  "WorkspaceRootPath": "D:\\code\\WindowForms\\Week1\\loging\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4200492-1A26-4A78-833B-72B95D983AC9}|loging\\loging.csproj|D:\\code\\WIN\\loging\\loging\\trangchinhlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4200492-1A26-4A78-833B-72B95D983AC9}|loging\\loging.csproj|D:\\code\\WindowForms\\Week1\\loging\\loging\\trangchinhlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4200492-1A26-4A78-833B-72B95D983AC9}|loging\\loging.csproj|solutionrelative:loging\\trangchinhlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4200492-1A26-4A78-833B-72B95D983AC9}|loging\\loging.csproj|d:\\code\\win\\loging\\loging\\trangchinhlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4200492-1A26-4A78-833B-72B95D983AC9}|loging\\loging.csproj|solutionrelative:loging\\trangchinhlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4200492-1A26-4A78-833B-72B95D983AC9}|loging\\loging.csproj|D:\\code\\WIN\\loging\\loging\\trangchinhlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A4200492-1A26-4A78-833B-72B95D983AC9}|loging\\loging.csproj|d:\\code\\windowforms\\week1\\loging\\loging\\trangchinhlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A4200492-1A26-4A78-833B-72B95D983AC9}|loging\\loging.csproj|solutionrelative:loging\\trangchinhlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,15 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "trangchinhlogin.cs [Design]",
-              "DocumentMoniker": "D:\\code\\WIN\\loging\\loging\\trangchinhlogin.cs",
+              "DocumentMoniker": "D:\\code\\WindowForms\\Week1\\loging\\loging\\trangchinhlogin.cs",
               "RelativeDocumentMoniker": "loging\\trangchinhlogin.cs",
-              "ToolTip": "D:\\code\\WIN\\loging\\loging\\trangchinhlogin.cs [Design]",
+              "ToolTip": "D:\\code\\WindowForms\\Week1\\loging\\loging\\trangchinhlogin.cs [Design]",
               "RelativeToolTip": "loging\\trangchinhlogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T14:29:40.291Z",
@@ -39,29 +35,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "trangchinhlogin.Designer.cs",
-              "DocumentMoniker": "D:\\code\\WIN\\loging\\loging\\trangchinhlogin.Designer.cs",
-              "RelativeDocumentMoniker": "loging\\trangchinhlogin.Designer.cs",
-              "ToolTip": "D:\\code\\WIN\\loging\\loging\\trangchinhlogin.Designer.cs",
-              "RelativeToolTip": "loging\\trangchinhlogin.Designer.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAD4v1EAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T01:42:11.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "trangchinhlogin.cs",
-              "DocumentMoniker": "D:\\code\\WIN\\loging\\loging\\trangchinhlogin.cs",
+              "DocumentMoniker": "D:\\code\\WindowForms\\Week1\\loging\\loging\\trangchinhlogin.cs",
               "RelativeDocumentMoniker": "loging\\trangchinhlogin.cs",
-              "ToolTip": "D:\\code\\WIN\\loging\\loging\\trangchinhlogin.cs",
+              "ToolTip": "D:\\code\\WindowForms\\Week1\\loging\\loging\\trangchinhlogin.cs",
               "RelativeToolTip": "loging\\trangchinhlogin.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAwwDAAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T15:44:26.838Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 318,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }
