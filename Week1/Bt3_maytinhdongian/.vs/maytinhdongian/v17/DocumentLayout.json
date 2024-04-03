@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\code\\WindowForms\\Week1\\maytinhdongian\\",
+  "WorkspaceRootPath": "D:\\code\\WindowForms\\Week1\\Bt3_maytinhdongian\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42C42535-6D3F-4D3E-8994-F4EB1CB6964D}|maytinhdongian\\maytinhdongian.csproj|d:\\code\\windowforms\\week1\\maytinhdongian\\maytinhdongian\\maytinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42C42535-6D3F-4D3E-8994-F4EB1CB6964D}|maytinhdongian\\maytinhdongian.csproj|d:\\code\\windowforms\\week1\\bt3_maytinhdongian\\maytinhdongian\\maytinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42C42535-6D3F-4D3E-8994-F4EB1CB6964D}|maytinhdongian\\maytinhdongian.csproj|solutionrelative:maytinhdongian\\maytinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42C42535-6D3F-4D3E-8994-F4EB1CB6964D}|maytinhdongian\\maytinhdongian.csproj|d:\\code\\windowforms\\week1\\maytinhdongian\\maytinhdongian\\maytinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{42C42535-6D3F-4D3E-8994-F4EB1CB6964D}|maytinhdongian\\maytinhdongian.csproj|D:\\code\\WindowForms\\Week1\\Bt3_maytinhdongian\\maytinhdongian\\maytinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{42C42535-6D3F-4D3E-8994-F4EB1CB6964D}|maytinhdongian\\maytinhdongian.csproj|solutionrelative:maytinhdongian\\maytinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "maytinh.cs [Design]",
-              "DocumentMoniker": "D:\\code\\WindowForms\\Week1\\maytinhdongian\\maytinhdongian\\maytinh.cs",
+              "DocumentMoniker": "D:\\code\\WindowForms\\Week1\\Bt3_maytinhdongian\\maytinhdongian\\maytinh.cs",
               "RelativeDocumentMoniker": "maytinhdongian\\maytinh.cs",
-              "ToolTip": "D:\\code\\WindowForms\\Week1\\maytinhdongian\\maytinhdongian\\maytinh.cs [Design]",
+              "ToolTip": "D:\\code\\WindowForms\\Week1\\Bt3_maytinhdongian\\maytinhdongian\\maytinh.cs [Design]",
               "RelativeToolTip": "maytinhdongian\\maytinh.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T15:20:12.948Z",
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "maytinh.cs",
-              "DocumentMoniker": "D:\\code\\WindowForms\\Week1\\maytinhdongian\\maytinhdongian\\maytinh.cs",
+              "DocumentMoniker": "D:\\code\\WindowForms\\Week1\\Bt3_maytinhdongian\\maytinhdongian\\maytinh.cs",
               "RelativeDocumentMoniker": "maytinhdongian\\maytinh.cs",
-              "ToolTip": "D:\\code\\WindowForms\\Week1\\maytinhdongian\\maytinhdongian\\maytinh.cs",
+              "ToolTip": "D:\\code\\WindowForms\\Week1\\Bt3_maytinhdongian\\maytinhdongian\\maytinh.cs",
               "RelativeToolTip": "maytinhdongian\\maytinh.cs",
               "ViewState": "AQIAAC0AAAAAAAAAAAAowEQAAACkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

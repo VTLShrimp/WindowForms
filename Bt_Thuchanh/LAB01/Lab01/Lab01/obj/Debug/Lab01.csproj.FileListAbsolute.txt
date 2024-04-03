@@ -1,0 +1,10 @@
+D:\code\WindowForms\Bt_Thuchanh\LAB01\Lab01\Lab01\bin\Debug\Lab01.exe.config
+D:\code\WindowForms\Bt_Thuchanh\LAB01\Lab01\Lab01\bin\Debug\Lab01.exe
+D:\code\WindowForms\Bt_Thuchanh\LAB01\Lab01\Lab01\bin\Debug\Lab01.pdb
+D:\code\WindowForms\Bt_Thuchanh\LAB01\Lab01\Lab01\obj\Debug\Lab01.csproj.AssemblyReference.cache
+D:\code\WindowForms\Bt_Thuchanh\LAB01\Lab01\Lab01\obj\Debug\Lab01.frmbaiI.resources
+D:\code\WindowForms\Bt_Thuchanh\LAB01\Lab01\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+D:\code\WindowForms\Bt_Thuchanh\LAB01\Lab01\Lab01\obj\Debug\Lab01.csproj.GenerateResource.cache
+D:\code\WindowForms\Bt_Thuchanh\LAB01\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+D:\code\WindowForms\Bt_Thuchanh\LAB01\Lab01\Lab01\obj\Debug\Lab01.exe
+D:\code\WindowForms\Bt_Thuchanh\LAB01\Lab01\Lab01\obj\Debug\Lab01.pdb
