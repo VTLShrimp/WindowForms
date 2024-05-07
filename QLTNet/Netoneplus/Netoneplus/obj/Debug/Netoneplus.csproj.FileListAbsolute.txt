@@ -1,0 +1,10 @@
+D:\code\WindowForms\QLTNet\Netoneplus\Netoneplus\bin\Debug\Netoneplus.exe.config
+D:\code\WindowForms\QLTNet\Netoneplus\Netoneplus\bin\Debug\Netoneplus.exe
+D:\code\WindowForms\QLTNet\Netoneplus\Netoneplus\bin\Debug\Netoneplus.pdb
+D:\code\WindowForms\QLTNet\Netoneplus\Netoneplus\obj\Debug\Netoneplus.csproj.AssemblyReference.cache
+D:\code\WindowForms\QLTNet\Netoneplus\Netoneplus\obj\Debug\Netoneplus.frmadmin.resources
+D:\code\WindowForms\QLTNet\Netoneplus\Netoneplus\obj\Debug\Netoneplus.Properties.Resources.resources
+D:\code\WindowForms\QLTNet\Netoneplus\Netoneplus\obj\Debug\Netoneplus.csproj.GenerateResource.cache
+D:\code\WindowForms\QLTNet\Netoneplus\Netoneplus\obj\Debug\Netoneplus.csproj.CoreCompileInputs.cache
+D:\code\WindowForms\QLTNet\Netoneplus\Netoneplus\obj\Debug\Netoneplus.exe
+D:\code\WindowForms\QLTNet\Netoneplus\Netoneplus\obj\Debug\Netoneplus.pdb
