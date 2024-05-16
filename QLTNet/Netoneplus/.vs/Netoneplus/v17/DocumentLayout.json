@@ -34,6 +34,10 @@
               "EditorCaption": " [Design]"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "admin.cs",
@@ -41,14 +45,9 @@
               "RelativeDocumentMoniker": "Netoneplus\\admin.cs",
               "ToolTip": "D:\\code\\WindowForms\\QLTNet\\Netoneplus\\Netoneplus\\admin.cs",
               "RelativeToolTip": "Netoneplus\\admin.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBcAAAAAAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAD4vxcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T18:01:09.392Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2024-05-06T18:01:09.392Z"
             }
           ]
         }
